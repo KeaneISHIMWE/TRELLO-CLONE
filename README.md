@@ -21,7 +21,3 @@ This clone aims to replicate the core structure and key features of Trello:
 
 *(Installation and usage instructions will be placed here as the project develops.)*
 
-## Repository
-
-This project is connected to the following GitHub repository:
-[https://github.com/KeaneISHIMWE/TRELLO-CLONE.git](https://github.com/KeaneISHIMWE/TRELLO-CLONE.git)
